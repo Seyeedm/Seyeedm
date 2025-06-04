@@ -17,7 +17,7 @@ Currently, I am working with Golang, but I have worked with Laravel for 3 years 
 </p>
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/new.gif" />
+<img align="right" height="250" width="250" alt="" src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/new.gif" />
 
 ### Talking about Personal Stuff:
 
