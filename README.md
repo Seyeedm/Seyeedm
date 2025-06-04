@@ -1,22 +1,14 @@
 ## Hey there 👋, I'm [Ali Musavy!](https://github.com/iampavangandhi/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Email Badge](https://img.shields.io/badge/-gmail-c71610?style=flat-square&logo=gmail&logoColor=white)](mailto:sedmax42@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sedmax)
 [![Telegram Badge](https://img.shields.io/badge/-telegram-24A1DE?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sedmax42)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I am a passionate web programmer. I have been programming for about 6 years and I have been editing for 4 months.🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **6** years ago.
-
-Since then I pushed **3511**+ commits, opened **229**+ issues, submitted **556**+ pull requests, created **20**+ gists and contributed to **4**+ public repositories.
+I have the experience of working in Daneshjooyar and Iranian companies as a back-end programmer, and I am currently working in our own Griffin Studio team.
+Currently, I am working with Golang, but I have worked with Laravel for 3 years and I also like to try unknown Linuxes.
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
@@ -25,24 +17,20 @@ Since then I pushed **3511**+ commits, opened **229**+ issues, submitted **556**
 </p>
 <hr>
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 🛠 &nbsp; I’m currently working with Golang.
+- 💬 &nbsp; Ask me anything [here](https://t.me/sedmax42)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: sedmax42@gmail.com.
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🎸 &nbsp; Playing the guitar when I'm alone(Actually Always)
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
